@@ -18,6 +18,10 @@ export default function Home() {
       username: 'maersux'
     },
     {
+      platform: 'steam',
+      username: 'maersux'
+    },
+    {
       platform: 'twitch',
       username: 'maersux'
     }

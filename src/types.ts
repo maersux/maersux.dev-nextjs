@@ -1,4 +1,4 @@
-export type Platforms = 'discord' | 'github' | 'twitch';
+export type Platforms = 'discord' | 'github' | 'steam' | 'twitch';
 
 export type IconLinkItem = {
   username: string;
